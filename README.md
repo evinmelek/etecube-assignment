@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+****
+This React App Login or Register user. And then fetch json data in tables and list.
+****
+
+### For using db.json file
+
+### First instal json server
+ `npm install json-server`
+
+### Then use json file with this code
+`json-server --watch db.json`
+
+
