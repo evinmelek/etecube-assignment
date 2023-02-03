@@ -72,11 +72,19 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ****
 This React App Login or Register user. And then fetch json data in tables and list.
 ****
+### Install Bootsrap
+`npm install bootstrap`   "^5.2.3"
+
+### Install for Routes
+`npm install react-router-dom`   "^6.8.0"
+
+### You Can Install Formik For Forms
+`npm instal formik`    "^2.2.9"
 
 ### For using db.json file
 
 ### First instal json server
- `npm install json-server`
+ `npm install json-server` n "^0.17.1"
 
 ### Then use json file with this code
 `json-server --watch db.json`
