@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #a0a2a6;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.email-input{
+  width: 85%;
+  float: right;
+}
+
+.password-input{
+  width: 97%;
+  float: right;
+}
+ 

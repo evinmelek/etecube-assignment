@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "user",
+      "password": "123"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Company Name",
+      "legalNumber": 1,
+      "incorporationCountry": "Country",
+      "website": "https://www.company.com"
+    },
+    {
+      "id": 2,
+      "name": "Company Name 2",
+      "legalNumber": 1,
+      "incorporationCountry": "Country",
+      "website": "https://www.company.com"
+    },
+    {
+      "id": 3,
+      "name": "Company Name 3",
+      "legalNumber": 1,
+      "incorporationCountry": "Country",
+      "website": "https://www.company.com"
+    },
+    {
+      "id": 4,
+      "name": "Company Name 4",
+      "legalNumber": 1,
+      "incorporationCountry": "Country",
+      "website": "https://www.company.com"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Product Name",
+      "category": "Category",
+      "amount": "1",
+      "amountUnit": "Amount Unit",
+      "company": "Company"
+    }
+  ]
+}

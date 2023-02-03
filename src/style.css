@@ -1,0 +1,49 @@
+.navlink{
+    margin: 2%;
+    color: darkslategray;
+}
+
+li{
+    list-style-type: none;
+}
+.modal-container{
+    height: 80%;
+    width: 60%; 
+    border: 1px solid silver; 
+    border-radius: 5px;
+    background-color: whitesmoke;  
+    position: fixed;
+    left: 20%;
+    top: 10%;
+    padding: 5%;
+    z-index: 2;
+}
+
+.modal-form{ 
+    margin: 5%;
+}
+
+.modal-input{
+    margin: 2%;
+    text-align: left;
+    width: 50%;
+}
+label{
+    width: 70%;
+}
+  
+.modal-close-button{ 
+    right: 0%;
+    top: 0%;
+    position: absolute;
+    margin: 2%;
+    padding: 1%;
+    background-color: silver;
+    border: silver;
+    color: grey;
+    border-radius: 10px;
+}
+
+.modal-close-button:hover{
+    color: darkslategray;
+}
