@@ -84,7 +84,7 @@ This React App Login or Register user. And then fetch json data in tables and li
 ### For using db.json file
 
 ### First instal json server
- `npm install json-server` n "^0.17.1"
+ `npm install json-server`  "^0.17.1"
 
 ### Then use json file with this code
 `json-server --watch db.json`
