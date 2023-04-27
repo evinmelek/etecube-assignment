@@ -4,6 +4,21 @@
       "id": 1,
       "username": "user",
       "password": "123"
+    },
+    {
+      "name": "Burger King",
+      "email": "wwwwwwwww@gmail.com",
+      "id": 2
+    },
+    {
+      "username": "eeeeeee",
+      "password": "eeeeeeeeeeee",
+      "id": 3
+    },
+    {
+      "username": "ccccccc",
+      "password": "ccccccccc",
+      "id": 4
     }
   ],
   "companies": [
